@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Quiz App</string>
+    <string name="results">Results</string>
+    <string name="volgende">Volgende</string>
+    <string name="settings">Settings</string>
+    <string name="nulProcent">Je hebt 0% gescoord, blijf je best doen!</string>
+    <string name="twintigProcent">Je hebt 20% gescoord, beter leren!</string>
+    <string name="veertigProcent">Je hebt 40% gescoord, gaat de goede kant op!</string>
+    <string name="zestigProcent">Je hebt 60% gescoord, goed bezig!</string>
+    <string name="tachtigProcent">Je hebt 80% gescoord, je bent een android meesterbrein!</string>
+    <string name="honderdProcent">Je hebt 100% gescoord, je bent een genie!</string>
+
+</resources>
